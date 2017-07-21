@@ -4,6 +4,8 @@
 
 [How to - CPU info on linux and mac](http://www.noktec.be/archives/1325)
 
+[Check if Hyper-threading is supported and enabled](https://unix.stackexchange.com/questions/33450/checking-if-hyperthreading-is-enabled-or-not)
+
 - SRAM v/s DRAM
 
 [https://www.wikiwand.com/en/Static_random-access_memory](https://www.wikiwand.com/en/Static_random-access_memory)
