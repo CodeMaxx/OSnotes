@@ -17,3 +17,19 @@
 [https://askubuntu.com/questions/844031/why-doesnt-pstree-command-show-init-in-ubuntu-16-04-lts](https://askubuntu.com/questions/844031/why-doesnt-pstree-command-show-init-in-ubuntu-16-04-lts)
 
 [https://www.tecmint.com/systemd-replaces-init-in-linux/](https://www.tecmint.com/systemd-replaces-init-in-linux/)
+
+- Process with pid 0
+
+[https://unix.stackexchange.com/questions/83322/which-process-has-pid-0](https://unix.stackexchange.com/questions/83322/which-process-has-pid-0)
+
+[sched](http://man7.org/linux/man-pages/man7/sched.7.html)
+
+- PCI (Peripheral Component Interconnect)
+
+[https://www.techwalla.com/articles/what-is-a-pci-device](https://www.techwalla.com/articles/what-is-a-pci-device)
+
+[Memory Controller is a PCI device](https://www.wikiwand.com/en/Memory_controller)
+
+- [Zombie Process](https://www.wikiwand.com/en/Zombie_process)
+
+- [High Memory v/s Low Memory](https://unix.stackexchange.com/questions/4929/what-are-high-memory-and-low-memory-on-linux)
