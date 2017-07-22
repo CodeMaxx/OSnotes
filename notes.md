@@ -35,3 +35,9 @@
 - [Zombie Process](https://www.wikiwand.com/en/Zombie_process)
 
 - [High Memory v/s Low Memory](https://unix.stackexchange.com/questions/4929/what-are-high-memory-and-low-memory-on-linux)
+
+- VmSize and VmRSS
+
+[http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utilization](http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utilization)
+
+[Is VmRSS from /proc/pid/status a good indicator of memory usage? - Reddit](https://www.reddit.com/r/linux/comments/1xmsrv/is_vmrss_from_procpidstatus_a_good_indicator_of/)
