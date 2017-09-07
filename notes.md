@@ -60,3 +60,7 @@
   - Also note that the return value is integer always. It is usually used to test whether the syscall was successful or not. If you want to set a variable using the syscall, send a pointer to it as a parameter and then set that in the function.
   
 - **Note: ** xv6 does not have `free`, so generally avoid using `malloc` since memory leaks. See `umalloc` rather.
+
+- [`malloc()` v/s `sbrk()` v/s `brk()`](https://stackoverflow.com/questions/19676688/how-malloc-and-sbrk-works-in-unix)
+
+- `malloc()` is a C library function and not a system call.
