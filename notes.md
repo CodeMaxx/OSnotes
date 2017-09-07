@@ -57,3 +57,6 @@
   - The function definition of `implement_my_syscall` is to be placed in `defs.h` so that `sysfile.c` can find it.
   - Implement `implement_my_syscall`
   - Make proper changes to `Makefile` for proper compilation.
+  - Also note that the return value is integer always. It is usually used to test whether the syscall was successful or not. If you want to set a variable using the syscall, send a pointer to it as a parameter and then set that in the function.
+  
+- **Note: ** xv6 does not have `free`, so generally avoid using `malloc` since memory leaks. See `umalloc` rather.
